@@ -8,6 +8,7 @@ target "NovaCamera" do
 	pod 'CocoaLumberjack', '~> 1.7.0'
 	pod 'TestFlightSDK', '~> 2.2.1'
 	pod 'TestFlightLogger', '~> 0.0.3'
+	pod 'NovaSDK', '~> 0.0.1'
 end
 
 target "NovaCameraTests" do
